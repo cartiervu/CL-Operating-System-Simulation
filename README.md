@@ -1,6 +1,8 @@
 # Command Line Operating System Simulation
+**Simulates operating system on the command line with various memory management systems**
 
 <img width="595" alt="Screen Shot 2021-10-07 at 1 34 44 AM" src="https://user-images.githubusercontent.com/43510280/136349237-0425a23e-8b2b-4a10-a37f-0ce7fd87d496.png">
+
 
 
 ## Specification
