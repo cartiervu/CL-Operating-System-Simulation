@@ -1,9 +1,4 @@
 /*
-    Cartier Vu
-    ID: 100296371
-    CPSC 1181 SEC 4
-    05/31/19
-
     This class implements the Comparator<T> class that helps the java.util.Collections class sort
     an ArrayList<App> by their processID in ascending order.
  */

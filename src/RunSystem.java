@@ -1,9 +1,4 @@
 /*
-    Cartier Vu
-    ID: 100296371
-    CPSC 1180 SEC 4
-    05/31/19
-
     The PSVM class that runs the Operating System program
  */
 import java.util.ArrayList;

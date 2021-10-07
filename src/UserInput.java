@@ -1,9 +1,4 @@
 /*
-    Cartier Vu
-    ID: 100296371
-    CPSC 1180 SEC 4
-    05/31/19
-
     The purpose of this class is to validate commands inputted by the user through the
     SimulatedSystem object.
  */

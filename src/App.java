@@ -1,9 +1,4 @@
 /*
-    Cartier Vu
-    ID: 100296371
-    CPSC 1181 SEC 4
-    05/31/19
-
     The purpose of this class is to hold data about the current App being run within the
     SimulatedSystem class.
  */

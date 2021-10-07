@@ -1,9 +1,4 @@
 /*
-    Cartier Vu
-    ID: 100296371
-    CPSC 1180 SEC 4
-    05/31/19
-
     The purpose of this class is to simulate an operating system. The commands for the operating
     system are "run", "stop", "list", and "exit".
  */
